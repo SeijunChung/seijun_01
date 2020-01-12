@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="seijun_01:war">
+    <output-path>$PROJECT_DIR$/target/seijun_01-1.0-BUILD-SNAPSHOT</output-path>
+    <root id="archive" name="seijun_01_war.war">
+      <element id="artifact" artifact-name="seijun_01:war exploded" />
+    </root>
+  </artifact>
+</component>
