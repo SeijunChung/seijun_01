@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" build-on-make="true" name="seijun_01:war exploded">
-    <output-path>$PROJECT_DIR$/target</output-path>
+    <output-path>$PROJECT_DIR$/target/seijun_01-1.0-BUILD-SNAPSHOT</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
